@@ -1,0 +1,171 @@
+@font-face {
+	src: url('../fonts/UbuntuCondensed-Regular.ttf');
+	font-family: 'ubuntu';
+}
+* {
+	font-family: 'ubuntu';
+}
+
+body {
+	background-color: #ddd;
+}
+
+.btn {
+	border-radius: 0px !important;
+}
+
+input, input:focus {
+	border-radius: 0px !important;
+	outline: none !important;
+	box-shadow: none !important;
+	border: 1px solid #ccc !important;
+}
+input[type="submit"]  {
+	border: 1px solid transparent !important;
+}
+
+.wrap {
+	width: 500px;
+	margin: 50px auto 0px;
+
+}
+
+.wrap-table {
+	width: 1000px;
+	margin: 50px auto 0px;
+
+}
+.wrap-table table tr td {
+	vertical-align: middle !important;
+	padding: 3px 5px;
+}
+
+.wrap-table table tr td img {
+	width: 50px;
+	height: 50px;
+	vertical-align: middle !important;
+} 
+
+.wrap-table table tbody tr td:first-child{
+	width: 30px !important;
+}
+.wrap-table table tbody tr td:last-child{
+	text-align: right;
+	width: 160px;
+}
+
+.form-control-file {
+	font-size: 16px;
+	background-color: #fff;
+	box-shadow: 5px 5px 10px #000;
+
+	outline: none;
+}
+
+::-webkit-file-upload-button{
+	color: #fff;
+	background-color: #206a5d;
+	padding: 8px 20px;
+	border: none;
+	box-shadow: 1px 0 1px 1px #6b4559;
+	outline: none;
+}
+
+::-webkit-file-upload-button:hover{
+	background-color: #438a5e;
+	cursor: pointer;
+}
+
+
+
+
+
+
+.home .user-area {
+	padding: 80px 0px;
+	text-align: center;
+}
+
+.home .card {
+	padding: 50px 30px;
+	box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+	border-radius: 15px;
+}
+
+.home i {
+	font-size: 180px;
+	color: #e84118;
+	margin-bottom: 25px;
+}
+
+.home a {
+	color: #000;
+	text-align: center;
+}
+
+.home a:hover {
+	text-decoration: none;
+	color: #000;
+}
+
+.home h1, .profile h1{
+	text-align: center;
+	font-size: 60px;
+	font-family: impact;
+	color: #22a6b3;
+	padding: 50px 0;
+}
+
+.home h2 {
+	font-family: impact;
+	color: #192a56;
+}
+.std{
+	text-align: center;
+	font-size: 60px;
+	font-family: impact;
+	color: #22a6b3;
+	padding-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
